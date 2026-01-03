@@ -2,44 +2,38 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=header&text=Dagio&fontSize=50&fontColor=000000&fontAlignY=40" width="100%"/>
 </div>
 
-<h3 align="center">Discord Bot Developer | Web Developer</h3>
+<h3 align="center">Discord Bot Developer | Basic Frontend</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dagiogit&label=Views&color=000000&style=flat-square" alt="views" />
   <img src="https://img.shields.io/github/followers/dagiogit?label=Followers&style=flat-square&color=000000" alt="followers" />
 </p>
 
----
+  ## About Me
+<div align= "center">
 
-### About Me
+  
+Creator and developer of **Spritle**, a Discord bot focused on server management and automation. I specialize in Discord bot development and building simple web interfaces.
 
-Creator and developer of **Spritle**, a Discord bot focused on server management and automation. I specialize in building web applications and Discord bots with AI integration.
-```javascript
-const dagio = {
-    role: "Developer",
-    focus: ["Discord Bots", "Web Development"],
-    mainProject: "Spritle",
-    tech: ["JavaScript", "Node.js", "MongoDB"],
-    currentlyWorking: "The Spritle Upgrade"
-};
-```
+![](https://github-contributor-stats.vercel.app/api?username=DagioGit&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
-### Main Project
+## Main Project
 
-**Spritle** - Discord Bot for server management
-- Security & Anti-Raid systems
-- AI-powered moderation
-- Custom commands & automation
+**Spritle** - Discord Bot for Server Management
+- Advanced security and Anti-Raid systems
+- Advanced Moderation
+- Custom commands and automation
 - Multi-language support
-- Advanced logging & analytics
+- Advanced event logging
 
 [Website](https://spritlebot.netlify.app) • [Discord Server](https://discord.gg/ueVyHF3gqU)
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -47,54 +41,38 @@ const dagio = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
 ---
 
-### Experience
+## Skills
 
 **Discord Bot Development**
-- Built and maintain Spritle with 1000+ active users
-- Implemented AI-powered moderation systems
-- Created custom automation workflows
-- Developed multi-server management features
+> - Built and maintain Spritle (1000+ active users)
+> - Custom automation workflows
+> - Multi-server management
+> - Advanced Moderation
 
-**Web Development**
-- Full-stack web applications
-- RESTful API design and implementation
-- Database architecture and optimization
-- Responsive UI/UX design
+**Frontend**
+> - HTML, CSS, and JavaScript
+> - Basic React for simple interfaces
+> - Responsive design
+
+**Backend (basic)**
+> - Node.js for Discord bots
+> - MongoDB for data storage
+> - Basic APIs
+
+---
+## Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=DagioGit&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### Current Projects
 
-**The Spritle Upgrade**
-- Enhanced AI conversation capabilities
-- Advanced analytics dashboard
-- Voice channel automation
-- External API integrations
-- Performance optimizations
-
----
-
-### Skills
-
-**Languages**: JavaScript, Java, C++, HTML, CSS
-
-**Frameworks**: Node.js, Express.js, Discord.js
-
-**Databases**: MongoDB
-
-**Tools**: Git, GitHub, VS Code
-
-**Areas**: Bot Development, Web Development, API Design, Database Management, AI Integration
-
----
-
-### Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://discord.gg/ueVyHF3gqU">
@@ -108,7 +86,7 @@ const dagio = {
   </a>
 </p>
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer" width="100%"/>
